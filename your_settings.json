@@ -1,0 +1,22 @@
+{
+    "token": "NDUzNjk1NjA1NDMzMzAzMDUw.DvXIAA.I9etXHZXNb_Ix8FHWyixTA5xCtw",
+    "prefix": "SV_",
+    "rainbowdelay": 200,
+    "rainbowcommand": "OG",
+    "rainbowstop": "stop",
+    "rainbowrole": [
+        "#ff0571",
+        "#ff05b8",
+        "#ff05f3",
+        "#cd05ff",
+        "#e96bff",
+        "#ff6bda",
+        "#ffd06b"
+    ],
+    "messageresponse": {
+        "missingperm": "I need permission 'MANAGE_ROLES' to execute this action.",
+        "success": ":scream:",
+        "rainbowstop": "Ok ranbow is over",
+        "rolenotfound": "The requested role you typed was not found"
+    }
+}
